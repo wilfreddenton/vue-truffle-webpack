@@ -10,6 +10,8 @@ vtw requires that you have [truffle](https://github.com/trufflesuite/truffle) an
 
 `npm install -g vue-cli`
 
+After obtaining the dependencies simply run the following command. This will fetch the `vtw` script file and move it into `/usr/local/bin` so it can be used globally as a command.
+
 ```
 curl -O https://raw.githubusercontent.com/wilfreddenton/vue-truffle-webpack/master/vtw ; chmod +x vtw ; mv vtw /usr/local/bin
 ```
