@@ -1,6 +1,14 @@
-# Vue + Truffle + Webpack
+# Vue + Truffle + Webpack [vtw]
+
+This simple script combines truffle with a [custom Vue webpack template](https://github.com/wilfreddenton/vue-truffle-webpack) to generate a boilerplate that can be built on top of to create complex distributed apps on the Ethereum blockchain.
 
 ## Install
+
+vtw requires that you have [truffle](https://github.com/trufflesuite/truffle) and the [vue-cli](https://github.com/vuejs/vue-cli) installed.
+
+`npm install -g truffle`
+
+`npm install -g vue-cli`
 
 ```
 curl -O https://raw.githubusercontent.com/wilfreddenton/vue-truffle-webpack/master/vtw ; chmod +x vtw ; mv vtw /usr/local/bin
