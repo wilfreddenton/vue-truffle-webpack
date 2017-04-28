@@ -16,6 +16,8 @@ After obtaining the dependencies simply run the following command. This will fet
 curl -O https://raw.githubusercontent.com/wilfreddenton/vue-truffle-webpack/master/vtw ; chmod +x vtw ; mv vtw /usr/local/bin
 ```
 
+It also requires that you use [MetaMask](https://metamask.io/) for development. MetaMast will inject [web3](https://github.com/ethereum/web3.js/), set with the RCP provider you've configured MetaMast to use, into the browser environment.
+
 ## Usage
 
 1. `mkdir dapp`
