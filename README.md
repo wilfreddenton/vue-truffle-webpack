@@ -1,6 +1,6 @@
 # Vue + Truffle + Webpack [vtw]
 
-This simple script combines truffle with a [custom Vue webpack template](https://github.com/wilfreddenton/vue-truffle-webpack) to generate a boilerplate that can be built on top of to create complex distributed apps on the Ethereum blockchain.
+This simple script combines truffle with a [custom Vue webpack template](https://github.com/wilfreddenton/vue-truffle-webpack-template) to generate a boilerplate that can be built on top of to create complex distributed apps on the Ethereum blockchain.
 
 ## Install
 
